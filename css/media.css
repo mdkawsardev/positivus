@@ -1,0 +1,635 @@
+
+
+/* extra small  */
+@media (max-width: 575.98px){
+    body{
+        font-size: 18px;
+    }
+    /* header start  */
+    .first_logo{
+        width: 180px;
+    }
+    .navbar_btn:focus{
+        box-shadow: none;
+    }
+    .menu ul li a {
+        margin: 5px 0;
+    }
+    .common_btn {
+        padding: 10px 10px;
+        font-size: 17px;
+    }
+    .menu_btn .m_btn {
+        margin-top: 10px;
+    }
+    /* header end  */
+    /* banner start  */
+    .banner {
+        margin: 50px 0;
+    }
+    .b_title {
+        padding: 0 0 34px 0;
+    }
+    .b_title h1 {
+        font-size: 60px;
+        line-height: 70px;
+    }
+    /* banner end  */
+    /* service start  */
+    .common_title {
+        font-size: 36px;
+    }
+    .section_common_margin {
+        margin: 60px 0;
+    }
+    .single_item {
+        margin-top: 30px;
+        padding: 48px;
+    }
+    .s_text .h41 {
+        font-size: 30px;
+    }
+    .s_text .h42 {
+        font-size: 30px;
+    }
+    .link {
+        margin-top: 50px;
+    }
+    .second_row {
+        margin-top: 60px;
+        padding: 0 0px;
+    }
+    .second_row_title {
+        padding: 25px;
+    }
+    .second_row_title .s_r_h3 {
+        font-size: 37px;
+        line-height: 50px;
+    }
+    .second_row_title .s_r_p {
+        margin: 10px 0;
+    }
+    .second_row_title .s_r_btn {
+        width: 100%;
+        margin-top: 20px;
+        padding: 20px 0;
+        font-size: 20px;
+        transition: all .33s;
+        display: flex;
+        justify-content: center;
+    }
+    .heading {
+        display: block;
+        margin-bottom: 40px;
+        text-align: center;
+    }
+    .slider_item{
+        padding: 30px 9px;
+    }
+    .carousel-cell {
+        width: 95%;
+    }
+    /* service end  */
+    /* case section start  */
+    .case_study {
+        padding-bottom: 60px;
+    }
+    .heading_h3{
+        text-align: center;
+        margin-bottom: 30px;
+        font-size: 36px;
+    }
+    .second_row_links {
+        padding: 42px 15px;
+    }
+    .s_link {
+        padding: 0 30px;
+    }
+    /* case section end  */
+    /* work start  */
+    .work {
+        margin: 0 0 60px;
+    }
+    .work .heading {
+        margin-bottom: 40px;
+    }
+    .work_p{
+        text-align: center;
+    }
+    .btn_icon{
+        padding: 20px;
+        font-size: 20px;
+    }
+    .btn_icon span {
+        font-size: 40px;
+    }
+    /* work end  */
+    /* team start  */
+    .multi_item_btn {
+        margin: 40px 0 60px;
+    }
+    /* team end  */
+    /* service start  */
+    .slider {
+        margin-bottom: 60px;
+        padding: 50px 0 60px;
+    }
+    .slider_item {
+        padding: 30px 30px;
+    }
+    /* service end  */
+    /* contact start  */
+    .contact_field {
+        margin-bottom: 60px;
+        padding: 30px 0;
+    }
+    .input_field {
+        margin-left: 30px;
+    }
+    .input_tik {
+        width: 80%;
+        display: flex;
+        justify-content: space-between;
+    }
+    .input_group input {
+        margin-bottom: 20px;
+        padding: 10px 20px;
+    }
+    .button button {
+        padding: 15px 0;
+    }
+    /* contact end  */
+    /* footer start  */
+    .c_footer1 {
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        
+    }
+    .p_footer1 {
+        padding: 30px 0 30px;
+    }
+    .footer {
+        padding: 0 10px;
+    }
+    .footer_logo {
+        width: 136px;
+    }
+    .footer_menu{
+        display: flex;
+        flex-direction: column;
+    }
+    .footer_menu ul{
+        text-align: center;
+    }
+    .footer_menu ul li a {
+        text-align: center;
+        margin: 0 6px;
+    }
+    .social_m {
+        margin-left: 12px;
+    }
+    .con_child2 {
+        margin-top: 20px;
+        padding: 30px 20px;
+    }
+    .con_child1{
+        text-align: center;
+    }
+    .con_child1 span {
+        margin-bottom: 15px;
+    }
+    .input1 input {
+        margin-bottom: 10px;
+        padding: 10px 15px;
+    }
+    .f_btn button {
+        padding: 10px 15px;
+    }
+    .footer2 {
+        padding: 30px 0;
+    }
+    /* footer end  */
+}
+/* small  */
+@media (min-width: 576px) and (max-width: 767.98px){
+    body{
+        font-size: 18px;
+    }
+    /* header start  */
+    .first_logo{
+        width: 180px;
+    }
+    .navbar_btn:focus{
+        box-shadow: none;
+    }
+    .menu ul li a {
+        margin: 5px 0;
+    }
+    .common_btn {
+        padding: 10px 10px;
+        font-size: 17px;
+    }
+    .menu_btn .m_btn {
+        margin-top: 10px;
+    }
+    /* header end  */
+    /* banner start  */
+    .banner {
+        margin: 50px 0;
+    }
+    .b_title {
+        padding: 0 0 34px 0;
+    }
+    .b_title h1 {
+        font-size: 60px;
+        line-height: 70px;
+    }
+    /* banner end  */
+    /* service start  */
+    .common_title {
+        font-size: 36px;
+    }
+    .section_common_margin {
+        margin: 60px 0;
+    }
+    .single_item {
+        margin-top: 30px;
+        padding: 48px;
+    }
+    .s_text .h41 {
+        font-size: 30px;
+    }
+    .s_text .h42 {
+        font-size: 30px;
+    }
+    .link {
+        margin-top: 50px;
+    }
+    .second_row {
+        margin-top: 60px;
+        padding: 0 0px;
+    }
+    .second_row_title {
+        padding: 50px;
+    }
+    .second_row_title .s_r_h3 {
+        font-size: 37px;
+        line-height: 50px;
+    }
+    .second_row_title .s_r_p {
+        margin: 10px 0;
+    }
+    .second_row_title .s_r_btn {
+        width: 100%;
+        margin-top: 20px;
+        padding: 20px 0;
+        font-size: 20px;
+        transition: all .33s;
+        display: flex;
+        justify-content: center;
+    }
+    /* service end  */
+    /* case section start  */
+    .case_study {
+        padding-bottom: 60px;
+    }
+    .heading_h3{
+        text-align: center;
+        margin-bottom: 30px;
+        font-size: 36px;
+    }
+    .second_row_links {
+        padding: 42px 50px;
+    }
+    .s_link {
+        padding: 0 30px;
+    }
+    /* case section end  */
+    /* work start  */
+    .work {
+        margin: 0 0 60px;
+    }
+    .work .heading {
+        margin-bottom: 40px;
+    }
+    .work_p{
+        text-align: center;
+    }
+    .btn_icon{
+        padding: 20px;
+        font-size: 20px;
+    }
+    .btn_icon span {
+        font-size: 40px;
+    }
+    /* work end  */
+    /* team start  */
+    .multi_item_btn {
+        margin: 40px 0 60px;
+    }
+    /* team end  */
+    /* service start  */
+    .slider {
+        margin-bottom: 60px;
+        padding: 50px 0 60px;
+    }
+    .slider_item {
+        padding: 30px 30px;
+    }
+    /* service end  */
+    /* contact start  */
+    .contact_field {
+        margin-bottom: 60px;
+        padding: 30px 0;
+    }
+    .input_field {
+        margin-left: 30px;
+    }
+    .input_tik {
+        width: 80%;
+        display: flex;
+        justify-content: space-between;
+    }
+    .input_group input {
+        margin-bottom: 20px;
+        padding: 10px 20px;
+    }
+    .button button {
+        padding: 15px 0;
+    }
+    /* contact end  */
+    /* footer start  */
+    .c_footer1 {
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        
+    }
+    .p_footer1 {
+        padding: 30px 0 30px;
+    }
+    .footer {
+        padding: 0 10px;
+    }
+    .footer_logo {
+        width: 136px;
+    }
+    .footer_menu{
+        display: flex;
+        flex-direction: column;
+    }
+    .footer_menu ul li a {
+        margin: 0 6px;
+    }
+    .social_m {
+        margin-left: 12px;
+    }
+    .con_child2 {
+        margin-top: 20px;
+        padding: 30px 20px;
+    }
+    .con_child1{
+        text-align: center;
+    }
+    .con_child1 span {
+        margin-bottom: 15px;
+    }
+    .input1 input {
+        margin-bottom: 10px;
+        padding: 10px 15px;
+    }
+    .f_btn button {
+        padding: 10px 15px;
+    }
+    .footer2 {
+        padding: 30px 0;
+    }
+    /* footer end  */
+}
+/* medium */
+@media (min-width: 768px) and (max-width: 991.98px){
+    body{
+        font-size: 18px;
+    }
+    /* header start  */
+    .navbar_btn:focus{
+        box-shadow: none;
+    }
+    .menu ul li a {
+        margin: 5px 0;
+    }
+    .common_btn {
+        padding: 10px 10px;
+        font-size: 17px;
+    }
+    .menu_btn .m_btn {
+        margin-top: 10px;
+    }
+    /* header end  */
+    /* banner start  */
+    .banner {
+        margin: 50px 0;
+    }
+    .b_title {
+        padding: 0 0 34px 0;
+    }
+    .b_title h1 {
+        font-size: 38px;
+        line-height: 54px;
+    }
+    /* banner end  */
+    /* service start  */
+    .common_title {
+        font-size: 30px;
+    }
+    .section_common_margin {
+        margin: 60px 0;
+    }
+    .single_item {
+        margin-top: 30px;
+        padding: 30px;
+    }
+    .s_text .h41 {
+        font-size: 20px;
+    }
+    .s_text .h42 {
+        font-size: 20px;
+    }
+    .link {
+        margin-top: 25px;
+    }
+    .second_row {
+        margin-top: 60px;
+        padding: 0 0px;
+    }
+    .second_row_title {
+        padding: 15px;
+    }
+    .second_row_title .s_r_p {
+        margin: 10px 0;
+    }
+    /* service end  */
+    /* case section start  */
+    .case_study {
+        padding-bottom: 60px;
+    }
+    .second_row_links {
+        padding: 30px 0;
+    }
+    .s_link {
+        padding: 0 30px;
+    }
+    /* case section end  */
+    /* work start  */
+    .work {
+        margin: 0 0 60px;
+    }
+    .work .heading {
+        margin-bottom: 40px;
+    }
+    .btn_icon{
+        padding: 20px;
+    }
+    .btn_icon span {
+        font-size: 40px;
+    }
+    /* work end  */
+    /* team start  */
+    .multi_item_btn {
+        margin: 40px 0 60px;
+    }
+    /* team end  */
+    /* service start  */
+    .slider {
+        margin-bottom: 60px;
+        padding: 50px 0 60px;
+    }
+    .slider_item {
+        padding: 30px 30px;
+    }
+    /* service end  */
+    /* contact start  */
+    .contact_field {
+        margin-bottom: 60px;
+        padding: 30px 0;
+    }
+    .input_field {
+        margin-left: 30px;
+    }
+    .input_tik {
+        width: 80%;
+        display: flex;
+        justify-content: space-between;
+    }
+    .input_group input {
+        margin-bottom: 20px;
+        padding: 10px 20px;
+    }
+    .button button {
+        padding: 15px 0;
+    }
+    /* contact end  */
+    /* footer start  */
+    .p_footer1 {
+        padding: 30px 0 30px;
+    }
+    .footer {
+        padding: 0 10px;
+    }
+    .footer_logo {
+        width: 136px;
+    }
+    .footer_menu ul li a {
+        margin: 0 6px;
+    }
+    .social_m {
+        margin-left: 12px;
+    }
+    .con_child2 {
+        padding: 30px 20px;
+    }
+    .con_child1 span {
+        margin-bottom: 15px;
+    }
+    .input1 input {
+        padding: 10px 15px;
+    }
+    .f_btn button {
+        padding: 10px 15px;
+    }
+    .footer2 {
+        padding: 30px 0;
+    }
+    /* footer end  */
+}
+/* large  */
+@media (min-width: 992px) and (max-width: 1199.98px){
+    body{
+        font-size: 18px;
+    }
+    /* header start  */
+    .menu ul li a {
+        font-size: 18px;
+    }
+    .common_btn {
+        padding: 20px 20px;
+        font-size: 18px;
+    }
+    /* header end  */
+    /* banner start  */
+    .b_title {
+        padding: 0 0 34px 0;
+    }
+    /* banner end  */
+    /* service start  */
+    .section_common_margin {
+        margin: 100px 0;
+    }
+    .common_title {
+        margin-right: 30px;
+        font-size: 35px;
+    }
+    
+    /* service end  */
+    /* contact start  */
+    .input_field {
+        margin-left: 60px;
+    }
+    /* contact end  */
+    /* footer start  */
+    .footer {
+        padding: 0 30px;
+    }
+    .footer_logo {
+        width: 180px;
+    }
+    .footer_menu ul li a {
+        margin: 0 18px;
+    }
+    .con_child2 {
+        padding: 50px 15px;
+    }
+    .input1 input {
+        padding: 15px 15px;
+    }
+    .f_btn button {
+        padding: 15px 15px;
+    }
+    /* footer end  */
+}
+/* extra large  */
+@media (min-width: 1200px) and (max-width: 1399.98px){
+    /* banner start  */
+    .b_title {
+        padding: 0 40px 34px 0;
+    }
+    /* banner end  */
+    /* footer start  */
+    .f_btn button {
+        padding: 20px 20px;
+    }
+    /* footer end  */
+}
+/* extra extra large  */
+@media (min-width: 1400px){}
